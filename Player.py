@@ -2,7 +2,7 @@ class Player:
     def __init__(self, name: str, deck: [], balance: int):
         self.name: str = name
         self.deck: [] = deck
-        balance: int = balance
+        self.balance: int = balance
 
     def set_name(self , name: str):
         self.name: str = name
