@@ -4,13 +4,13 @@ class Game:
         self.board: [] = board
 
     def set_player(self, player: []):
-        self.player = player
+        self.player: [] = player
 
     def get_player(self) -> []:
         return self.player
 
     def set_board(self, board: []):
-        self.board = board
+        self.board: [] = board
 
     def get_board(self) -> []:
         return self.board
