@@ -1,3 +1,6 @@
+import Deck
+import Player
+
 class Game:
     def __init__(self, player: [], board: []):
         self.player: [] = player
