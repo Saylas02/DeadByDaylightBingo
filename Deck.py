@@ -27,14 +27,16 @@ class Deck:
             if str(bingo["bingo_id"]) == str(bingo_id):
                 for player in bingo["players"]:
                     if str(player["player_id"]) == str(player_id):
-                        return player["deck"]
+                        return player["player_deck"]
         return None
 
     @staticmethod
     def export_deck(self):
         """TODO: method to import Bingo Deck from json file"""
 
-#--------------Testing--------------#
+
+
+#--------------Begin-of-Testing--------------#
 # JSON-Datei laden
 with open("data.json", "r", encoding="utf-8") as file:
     data = json.load(file)
