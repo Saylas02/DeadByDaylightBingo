@@ -5,232 +5,232 @@
       "players": [
         {
           "player_id": "1",
-          "name": "Alex",
-          "deck": [
+          "player_name": "Alex",
+          "player_deck": [
             [
               {
                 "killer": "Trapper",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Wraith",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Hillbilly",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Nurse",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Shape",
-                "chosen": false
+                "used": false
               }
             ],
             [
               {
                 "killer": "Hag",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Doctor",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Huntress",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Cannibal",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Nightmare",
-                "chosen": false
+                "used": false
               }
             ],
             [
               {
                 "killer": "Pig",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Clown",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Spirit",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Legion",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Plague",
-                "chosen": false
+                "used": false
               }
             ],
             [
               {
                 "killer": "Ghost Face",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Demogorgon",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Oni",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Deathslinger",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Executioner",
-                "chosen": false
+                "used": false
               }
             ],
             [
               {
                 "killer": "Blight",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Twins",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Trickster",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Nemesis",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Cenobite",
-                "chosen": false
+                "used": false
               }
             ]
           ]
         },
         {
           "player_id": "2",
-          "name": "Anna",
-          "deck": [
+          "player_name": "Anna",
+          "player_deck": [
             [
               {
                 "killer": "Artist",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Onryō",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Dredge",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Mastermind",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Knight",
-                "chosen": false
+                "used": false
               }
             ],
             [
               {
                 "killer": "Skull Merchant",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Singularity",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Xenomorph",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Trapper",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Wraith",
-                "chosen": false
+                "used": false
               }
             ],
             [
               {
                 "killer": "Hillbilly",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Nurse",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Shape",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Hag",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Doctor",
-                "chosen": false
+                "used": false
               }
             ],
             [
               {
                 "killer": "Huntress",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Cannibal",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Nightmare",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Pig",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Clown",
-                "chosen": false
+                "used": false
               }
             ],
             [
               {
                 "killer": "Spirit",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Legion",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Plague",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Ghost Face",
-                "chosen": false
+                "used": false
               },
               {
                 "killer": "Demogorgon",
-                "chosen": false
+                "used": false
               }
             ]
           ]
